@@ -1,0 +1,15 @@
+body{
+    background-color:pink;
+    text-align: center;
+    margin-right: 10px;
+}
+h1{
+    color:navy;
+}
+input{
+    width: 200px;
+}
+#show{
+margin-top: 10px;
+margin-bottom: 10px;
+}
